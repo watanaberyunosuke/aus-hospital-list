@@ -1,20 +1,7 @@
 # Hospital List API on Flask + Vercel
 
-This example shows how to use Flask 3 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
+Hospital list api using Flask and Vercel, connected to back end data warehouse.
 
-## How it Works
+Data source: Department for Health and Age Care, Australian Government. https://australian-department-of-health-and-aged-care-australianhealth.hub.arcgis.com/
 
-This example uses the Web Server Gateway Interface (WSGI) with Flask to enable handling requests on Vercel with Serverless Functions.
-
-## Running Locally
-
-```bash
-npm i -g vercel
-vercel dev
-```
-
-Your Flask application is now available at `http://localhost:3000`.
-
-## One-Click Deploy
-
-Data source: Department for Health and Age Care, Australian Government.
+Data Copyright: Department for Health and Age Care
