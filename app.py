@@ -26,7 +26,7 @@ class Hospital(db.Model):
 
 @app.route('/')
 def home():
-    return 'Hello, World!'
+    return 'For API go to: https://aus-hospital-list.vercel.app/api/v1/hospital'
 
 @app.route('/api/v1/hospital')
 def hospital():
