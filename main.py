@@ -12,7 +12,7 @@ app.include_router(router=route.router)
 
 @app.get("/")
 async def root():
-    return {"message": "fastapi"}
+    return "For API go to: https://aus-hospital-list.vercel.app/api/v1/hospital"
 
 
 if __name__ == "__main__":
