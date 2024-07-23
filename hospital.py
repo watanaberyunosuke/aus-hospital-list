@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String
 from database import Base
 
+
 class Hospital(Base):
     __tablename__ = "Australia_Hospital"
     objectid = Column(Integer)
