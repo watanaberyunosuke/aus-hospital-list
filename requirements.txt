@@ -24,7 +24,7 @@ platformdirs==4.2.2
 psycopg2-binary==2.9.9
 pydantic
 pydantic_core
-Pygments==2.18.0
+Pygments==2.19.1
 python-dotenv==1.0.1
 python-multipart==0.0.18
 PyYAML==6.0.1
