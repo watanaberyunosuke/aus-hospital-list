@@ -26,7 +26,7 @@ pydantic
 pydantic_core
 Pygments==2.19.1
 python-dotenv==1.0.1
-python-multipart==0.0.18
+python-multipart==0.0.20
 PyYAML==6.0.1
 rich==13.9.4
 shellingham==1.5.4
