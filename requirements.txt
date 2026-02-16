@@ -20,7 +20,7 @@ mdurl==0.1.2
 mypy-extensions==1.1.0
 packaging==26.0
 pathspec==1.0.4
-platformdirs==4.5.1
+platformdirs==4.9.2
 psycopg2-binary==2.9.11
 pydantic
 pydantic_core
