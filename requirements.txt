@@ -36,7 +36,7 @@ starlette==0.52.1
 tomli==2.4.0
 typer==0.23.1
 typing_extensions==4.15.0
-uvicorn==0.40.0
+uvicorn==0.41.0
 uvloop==0.22.1
 watchfiles==1.1.1
 websockets==16.0
